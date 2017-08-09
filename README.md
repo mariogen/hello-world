@@ -1,2 +1,10 @@
 # hello-world
-first repository
+
+## i am changing
+
+# this is crazy
+- one
+- two
+- three
+
+good job
